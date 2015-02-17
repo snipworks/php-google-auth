@@ -3,6 +3,28 @@ PHP Google OAuth
 
 A simple and small class for Google OAuth Login
 
+## Installation
+### Using composer
+Just add require snipworks/php-google-auth
+
+```javascript
+require: {
+    "snipworks/php-google-auth": "dev-master"
+}
+```
+then require your composer's autoload file
+
+```php
+require_once('vendor/autoload.php');
+```
+
+### From source
+Just require the `google.php` class file
+
+```php
+require_once('/<source directory>/src/google.php');
+```
+
 ## Initialization
 ### Using array
 ```php
