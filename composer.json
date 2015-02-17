@@ -1,0 +1,16 @@
+{
+  "name": "snipworks/php-google-auth",
+  "description": "Simple class for Google OAuth Login",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "snipworks",
+      "email": "snipworks.ph@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
