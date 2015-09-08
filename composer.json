@@ -1,0 +1,7 @@
+{
+    "name": "snipworks/php-google-auth",
+    "description": "Simple Google OAuth Login Library",
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
